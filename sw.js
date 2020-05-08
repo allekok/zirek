@@ -4,7 +4,7 @@ self.addEventListener('install', function(event) {
 		caches.open(version).then(function(cache) {
 			return cache.addAll([
 				'/zirek/sw.js',
-				'/zirek/site/script.js?v4',
+				'/zirek/site/script.js?v5',
 				'/zirek/site/style.css?v2',
 				'/zirek/site/image/back.jpg',
 				'/zirek/site/image/portraits/1.svg',
