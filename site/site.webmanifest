@@ -1,0 +1,14 @@
+{
+    "name": "زیرەک",
+    "short_name": "زیرەک",
+    "icons": [
+        {
+            "src": "/zirek/site/image/portraits/1.png",
+            "sizes": "130x130",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
